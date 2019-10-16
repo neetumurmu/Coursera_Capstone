@@ -3,6 +3,7 @@
 This project is inspired by Coursera capstone project for the course "Applied Data Science Capstone" offered by IBM.
 
 Project shows the distribution of postal areas on a map using:
+
     1. Data scraped from Wikipedia
     2. Geopy to get location (latitude, longitude) of a postal
     3. Folium to plot each address or postal on map.
