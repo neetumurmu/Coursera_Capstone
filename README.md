@@ -11,10 +11,10 @@ Project shows the distribution of postal areas on a map using:
 
 ### Prerequisite
 
-You only need a jupyter-notebook environment to run the scripts.
+You only need a jupyter-notebook environment to run the codes.
 
 
 ### Getting Started
 
-You can clone the project using git or simply download the scripts.
+You can clone the project using git or simply download the notebook.
 
