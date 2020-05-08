@@ -1,4 +1,4 @@
-### data-scraping
+### Data Scraping
 
 This project is inspired by Coursera capstone project for the course "Applied Data Science Capstone" offered by IBM.
 
